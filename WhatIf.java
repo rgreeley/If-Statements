@@ -3,7 +3,7 @@ public class WhatIf
 	public static void main( String[] args )
 	{
 		int people = 20;
-		int cats = 30;
+		int cats = 20;
 		int dogs = 15;
 		
 		if ( people < cats )
@@ -43,5 +43,8 @@ public class WhatIf
 		{
 			System.out.println( "People are dogs." );
 		}
+		// I believe that the if is setting up prerequisite for the line of code and if it meets that prerequisite it will print or move on
+		// to the next line of code. 
+		// I believe that the point of the curly braces on each line of code is to make sure that line runs before going to the next line of code.
 	}
 }
