@@ -4,7 +4,7 @@ public class WhatIf
 	{
 		int people = 20;
 		int cats = 30;
-		int dogs = 14;
+		int dogs = 15;
 		
 		if ( people < cats )
 		{
